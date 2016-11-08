@@ -13,6 +13,7 @@
     <groupId>{{cookiecutter.groupId}}</groupId>
     <artifactId>{{cookiecutter.artifactId}}</artifactId>
     <version>{{cookiecutter.version}}</version>
+    <type>jar</type>
 
     <description>{{cookiecutter.project_short_description}}</description>
 
