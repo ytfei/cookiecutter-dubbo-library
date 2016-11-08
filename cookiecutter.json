@@ -1,0 +1,7 @@
+{
+	"app_name": "quickstart",
+	"groupId": "java/maven library groupId",
+	"artifactId": "java/maven library artifactId",
+	"version": "0.0.1-SNAPSHOT",
+	"project_short_description": "common java library"
+}
