@@ -6,7 +6,7 @@
     <groupId>{{cookiecutter.groupId}}</groupId>
     <artifactId>{{cookiecutter.artifactId}}-parent</artifactId>
     <version>{{cookiecutter.version}}</version>
-    <type>pom</type>
+    <packaging>pom</packaging>
 
     <description>{{cookiecutter.project_short_description}}</description>
 
